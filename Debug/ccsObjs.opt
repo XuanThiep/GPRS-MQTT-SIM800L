@@ -1,0 +1,1 @@
+"./GPRS_MQTT.o" "./GSM_MQTT.o" -Wl,--start-group -lMSP-EXP430F5529LP_core -lm -Wl,--end-group 
